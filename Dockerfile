@@ -4,7 +4,7 @@ MAINTAINER Kabir Baidhya <kabirbaidhya@gmail.com>
 
 # Original Author: 
 # Andrew Cutler <andrew@panubo.com>
-# See the upstream repo for details: https://github.com/panubo/docker-sshd
+# See the upstream repository for details: https://github.com/panubo/docker-sshd
 
 RUN apk update && \
     apk add bash git openssh rsync augeas && \
