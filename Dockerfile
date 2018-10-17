@@ -1,4 +1,4 @@
-FROM docker.io/alpine:3.6
+FROM alpine:3.8
 
 MAINTAINER Andrew Cutler <andrew@panubo.com>
 
